@@ -9,6 +9,7 @@ El cuaderno de Jupyter proporciona una introducción a Python, cubriendo variabl
 ## 2). Markowitz_Portfolio
 
 ## 3). Fama_French_Factors
+El cuaderno de Jupyter se centra en el análisis de datos financieros utilizando el modelo de Fama y French. Descarga datos desde el sitio web de Fama y French, los descomprime y almacena en Google Drive. Luego, los datos se limpian y formatean para su análisis. El cuaderno también se conecta a Google Sheets para obtener datos adicionales y formatearlos adecuadamente. Finalmente, se realizan análisis y gráficos, incluyendo la comparación de fronteras eficientes de diferentes índices, mostrando desviaciones estándar y retornos esperados.
 
 ## 4). Options_Valuation
 
