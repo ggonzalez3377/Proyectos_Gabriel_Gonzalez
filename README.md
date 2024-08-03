@@ -14,6 +14,7 @@ El cuaderno de Jupyter se centra en el análisis de datos financieros utilizando
 ## 4). Options_Valuation
 
 ## 5). Firm_Valuation
+El cuaderno de Jupyter se enfoca en la valoración de empresas utilizando el Modelo de Descuento de Dividendos (DDM). Importa la librería Pandas y define variables clave como el retorno sobre el patrimonio (ROE), la tasa de retención de utilidades (Plowback), el capital inicial y la tasa de descuento. Se incluyen funciones para calcular y retornar un DataFrame con los detalles anuales de capital, utilidades, dividendos y capital acumulado durante 500 años, así como para calcular el valor presente de los dividendos descontados y determinar el valor de las acciones.
 
 ## 6). Bonds_Analizer
 
