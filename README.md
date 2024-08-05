@@ -17,5 +17,6 @@ El cuaderno de Jupyter se centra en el análisis de datos financieros utilizando
 El cuaderno de Jupyter se enfoca en la valoración de empresas utilizando el Modelo de Descuento de Dividendos (DDM). Importa la librería Pandas y define variables clave como el retorno sobre el patrimonio (ROE), la tasa de retención de utilidades (Plowback), el capital inicial y la tasa de descuento. Se incluyen funciones para calcular y retornar un DataFrame con los detalles anuales de capital, utilidades, dividendos y capital acumulado durante 500 años, así como para calcular el valor presente de los dividendos descontados y determinar el valor de las acciones.
 
 ## 6). Bonds_Analizer
+El proyecto "Bonds_Analizer" es una herramienta de análisis financiero de bonos. Utiliza Python en un entorno Jupyter Notebook para calcular y visualizar métricas clave como precio, duración y rendimiento de bonos. Emplea bibliotecas como pandas y matplotlib para el manejo y representación de datos, permitiendo a los usuarios evaluar el desempeño y las características de sus inversiones en bonos de manera efectiva y precisa.
 
 ## 7). Stocks_Portfolio
