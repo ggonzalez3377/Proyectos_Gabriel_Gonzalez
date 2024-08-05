@@ -8,7 +8,10 @@ El cuaderno de Jupyter proporciona una introducción a Python, cubriendo variabl
 El código "Algorithmic_Trading.ipynb" obtiene datos históricos de precios de acciones, aplica una estrategia de cruce de medias móviles para generar señales de compra y venta, y realiza backtesting para evaluar el rendimiento. En el backtesting, se calculan métricas clave como el win rate, Sharpe Ratio, Sortino Ratio y Calmar Ratio. Además, realiza un seguimiento de las posiciones en un DataFrame para monitorizar ganancias o pérdidas, y visualiza los resultados mediante gráficos para analizar la efectividad de la estrategia.
 
 ## 2). Markowitz_Portfolio
-
+El código optimiza carteras de inversión usando el modelo de Markowitz a través de dos metodologías:
+1. **Simulación de Montecarlo:** Genera múltiples portafolios aleatorios para construir la frontera eficiente, calculando sus rendimientos y riesgos para identificar la mejor combinación de activos.
+2. **Optimización con `scipy`:** Utiliza técnicas de optimización para encontrar la cartera óptima que maximiza el Sharpe Ratio o minimiza el riesgo para un nivel de rentabilidad objetivo.
+Además, realiza un seguimiento de las posiciones en un DataFrame para evaluar ganancias y pérdidas, calcula métricas clave como el Sharpe Ratio, Sortino Ratio, Calmar Ratio y win rate, y visualiza los resultados con gráficos para facilitar el análisis de la efectividad de las carteras.
 
 ## 3). Fama_French_Factors
 El cuaderno de Jupyter se centra en el análisis de datos financieros utilizando el modelo de Fama y French. Descarga datos desde el sitio web de Fama y French, los descomprime y almacena en Google Drive. Luego, los datos se limpian y formatean para su análisis. El cuaderno también se conecta a Google Sheets para obtener datos adicionales y formatearlos adecuadamente. Finalmente, se realizan análisis y gráficos, incluyendo la comparación de fronteras eficientes de diferentes índices, mostrando desviaciones estándar y retornos esperados.
