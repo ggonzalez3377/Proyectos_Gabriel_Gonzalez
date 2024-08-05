@@ -5,8 +5,10 @@ Este repositorio contiene los principales proyectos desarrollados por Gabriel Go
 El cuaderno de Jupyter proporciona una introducción a Python, cubriendo variables, tipos de datos, operadores, entrada y salida de datos, y funciones integradas. También incluye ejemplos de programación orientada a objetos, abordando clases, herencia, polimorfismo, encapsulamiento y decoradores. Además, presenta ejercicios prácticos y conceptos fundamentales, lo que lo convierte en un recurso completo para principiantes en Python.
 
 ## 1). Trading_Signals
+El código "Algorithmic_Trading.ipynb" obtiene datos históricos de precios de acciones, aplica una estrategia de cruce de medias móviles para generar señales de compra y venta, y realiza backtesting para evaluar el rendimiento. En el backtesting, se calculan métricas clave como el win rate, Sharpe Ratio, Sortino Ratio y Calmar Ratio. Además, realiza un seguimiento de las posiciones en un DataFrame para monitorizar ganancias o pérdidas, y visualiza los resultados mediante gráficos para analizar la efectividad de la estrategia.
 
 ## 2). Markowitz_Portfolio
+
 
 ## 3). Fama_French_Factors
 El cuaderno de Jupyter se centra en el análisis de datos financieros utilizando el modelo de Fama y French. Descarga datos desde el sitio web de Fama y French, los descomprime y almacena en Google Drive. Luego, los datos se limpian y formatean para su análisis. El cuaderno también se conecta a Google Sheets para obtener datos adicionales y formatearlos adecuadamente. Finalmente, se realizan análisis y gráficos, incluyendo la comparación de fronteras eficientes de diferentes índices, mostrando desviaciones estándar y retornos esperados.
