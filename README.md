@@ -5,7 +5,7 @@ Este repositorio contiene los principales proyectos desarrollados por Gabriel Go
 El cuaderno de Jupyter proporciona una introducción a Python, cubriendo variables, tipos de datos, operadores, entrada y salida de datos, y funciones integradas. También incluye ejemplos de programación orientada a objetos, abordando clases, herencia, polimorfismo, encapsulamiento y decoradores. Además, presenta ejercicios prácticos y conceptos fundamentales, lo que lo convierte en un recurso completo para principiantes en Python.
 
 ## 1). Trading Signals
-El código "Algorithmic_Trading.ipynb" obtiene datos históricos de precios de acciones, aplica una estrategia de cruce de medias móviles para generar señales de compra y venta, y realiza backtesting para evaluar el rendimiento. En el backtesting, se calculan métricas clave como el win rate, Sharpe Ratio, Sortino Ratio y Calmar Ratio. Además, realiza un seguimiento de las posiciones en un DataFrame para monitorizar ganancias o pérdidas, y visualiza los resultados mediante gráficos para analizar la efectividad de la estrategia.
+El código "Algorithmic_Trading.ipynb" obtiene datos históricos de precios de acciones, aplica una estrategia de cruce de medias móviles y el indicador nube Ichimoku para generar señales de compra y venta, y realiza backtesting para evaluar el rendimiento. En el backtesting, se calculan métricas clave como el win rate, Sharpe Ratio, Sortino Ratio y Calmar Ratio. Además, realiza un seguimiento de las posiciones en un DataFrame para monitorizar ganancias o pérdidas, y visualiza los resultados mediante gráficos para analizar la efectividad de la estrategia.
 
 ## 2). Stochastics Process Modeling
 Code in progress...
