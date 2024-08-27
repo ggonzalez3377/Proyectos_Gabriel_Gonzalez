@@ -1,4 +1,4 @@
-# PROYECTOS_GABRIEL_GONZALEZ
+# Finance Proyects
 Este repositorio contiene los principales proyectos desarrollados por Gabriel Gonzalez a traves de Python, y para una mejor visualizacion a traves del entorno de ejecucion de Jupyter
 
 ## 0). Python_Basics
